@@ -1,4 +1,4 @@
-package ejercicio;
+package consorcioVs;
 
 import java.util.ArrayList;
 
